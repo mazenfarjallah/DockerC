@@ -1,0 +1,23 @@
+"Id": "b51ca1a85885213c57db40133885bd6ea21fddf608b0d9f7792194bc4f3698be",
+	"Created": "2024-03-31T17:19:02.879597778Z",
+	"Path": "java",
+	"Args": [
+		"-jar",
+		"/app.jar"
+	],
+	"State": {
+		"Status": "exited",
+		"Running": false,
+		"Paused": false,
+		"Restarting": false,
+		"OOMKilled": false,
+		"Dead": false,
+		"Pid": 0,
+		"ExitCode": 1,
+		"Error": "",
+		"StartedAt": "2024-03-31T17:21:19.9729231Z",
+		"FinishedAt": "2024-03-31T17:21:43.001216802Z"
+	},
+	"Image": "sha256:3a4e1a6faf7caa13d1df332be6e239ac05ad2da6221a64874f10354b3721c4e7",
+	"ResolvConfPath": "/var/lib/docker/containers/b51ca1a85885213c57db40133885bd6ea21fddf608b0d9f7792194bc4f3698be/resolv.conf",
+	"HostnamePath": "/var/lib/docker/containers/b51ca1a85885213c57db40133885bd6ea21fddf608b0d9f7792194bc4f3698be/hostname",
